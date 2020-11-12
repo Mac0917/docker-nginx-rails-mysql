@@ -13,7 +13,7 @@ dockerを自分のpcにインストール docker for macとか
 `docker-compose up -d`
 
 データベース作成<br>
-`docker exec -it docker-nginx-rails-mysql_app_1 bash`
+`docker exec -it docker-nginx-rails-mysql_app_1 bash`<br>
 `rails db:create`
 
 アクセス
