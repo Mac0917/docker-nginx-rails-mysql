@@ -12,6 +12,11 @@ dockerを自分のpcにインストール docker for macとか
 環境作成<br>
 `docker-compose up -d`
 
+データベース作成<br>
+`docker exec -it docker-nginx-rails-mysql_app_1 bash`
+`rails db:create`
+
 アクセス
 http://localhost/
+
 
