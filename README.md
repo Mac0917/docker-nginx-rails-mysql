@@ -1,24 +1,17 @@
-# README
+# docker nginx rails mysql 環境
+docker nginx rails mysql の開発環境が以下の手順で入手できます。
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+dockerを自分のpcにインストール docker for macとか
 
-Things you may want to cover:
+好きなディレクトリで実行
+`git clone https://github.com/Mac0917/docker-nginx-rails-mysql.git`
 
-* Ruby version
+移動
+`cd docker-nginx-rails-mysql`
 
-* System dependencies
+環境作成
+`docker-compose up -d`
 
-* Configuration
+アクセス
+http://localhost/
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
