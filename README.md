@@ -1,5 +1,9 @@
 # docker nginx rails mysql 環境
 docker nginx rails mysql の開発環境が以下の手順で入手できます。
+ruby 2.5.1
+rails 5.2
+mysql 5.7
+nginx 1.15.8
 
 dockerを自分のpcにインストール docker for macとか
 
