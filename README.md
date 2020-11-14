@@ -6,7 +6,7 @@ rails 5.2
 mysql 5.7
 nginx 1.15.8
 
-dockerを自分のpcにインストール docker for macとか
+dockerを自分のpcにインストール docker for macとか<br>
 docker-compose をインストール
 
 好きなディレクトリで実行<br>
